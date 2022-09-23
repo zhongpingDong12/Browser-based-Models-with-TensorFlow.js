@@ -13,7 +13,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 ![](C1_Browser-based Models with TensorFlow.png)
 
-Notebook
+### Notebook
 ![](C1_Device-based Models with TensorFlow Lite.pdf)
 
 ### Week1
