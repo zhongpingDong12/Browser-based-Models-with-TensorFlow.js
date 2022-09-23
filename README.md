@@ -11,7 +11,7 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 ### Certificate
 
-![Certificate](Cer.png)
+![Certificate](certificate.png)
 
 ### Notebook
 ![Notebook](Notebook.pdf)
