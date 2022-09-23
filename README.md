@@ -1,4 +1,3 @@
-
 ## Browser-based Models with TensorFlow.js
 
 **About this Course**
@@ -12,4 +11,35 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 ### Certificate
 
-![](Browser-based-Models-with-TensorFlow.js.png)
+![](C1_Browser-based Models with TensorFlow.png)
+
+### Week1
+- Specialization Introduction
+- Training and Inference using TensorFlow.js in JavaScript
+- Training Models with CSV Files
+- [Lecture Code](./week1/LectureNotes)
+- [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercises)
+
+
+### week2
+- Creating Convolutional Neural Networks in JavaScript
+- Using a Sprite Sheet
+- MNIST Classifier
+- [Lecture Code](./week2/LectureNotes)
+- [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercises)
+
+### week3
+- Toxicity Classifier
+- Image Classification Using MobileNet
+- Converting Models to JSON Format
+- [Lecture Code](./wee3/LectureNotes)
+- [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercises)
+
+
+### week4
+
+- Retraining the MobileNet Model
+- Capturing the Data
+- Performing Inference From the Webcam Feed
+- [Lecture Code](./week4/LectureNotes)
+- [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercises)
