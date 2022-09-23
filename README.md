@@ -8,13 +8,13 @@ In this first course, you’ll train and run machine learning models in any brow
 
 This Specialization builds upon our TensorFlow in Practice Specialization. If you are new to TensorFlow, we recommend that you take the TensorFlow in Practice Specialization first. To develop a deeper, foundational understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
 
+Here is the notebook: ![Notebook](Notebook.pdf)
+
 
 ### Certificate
 
 ![Certificate](certificate.png)
 
-### Notebook
-![Notebook](Notebook.pdf)
 
 ### Week1
 - Specialization Introduction
