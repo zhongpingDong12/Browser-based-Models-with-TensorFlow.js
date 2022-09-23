@@ -11,10 +11,10 @@ This Specialization builds upon our TensorFlow in Practice Specialization. If yo
 
 ### Certificate
 
-![](C1_Browser-based Models with TensorFlow.png)
+![Certificate](Cer.png)
 
 ### Notebook
-![](C1_Device-based Models with TensorFlow Lite.pdf)
+![Notebook](Notebook.pdf)
 
 ### Week1
 - Specialization Introduction
