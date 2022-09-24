@@ -28,15 +28,15 @@ Here is the notebook: ![Notebook](Notebook.pdf)
 - Creating Convolutional Neural Networks in JavaScript
 - Using a Sprite Sheet
 - MNIST Classifier
-- [Lecture Code](./week2/LectureNotes)
-- [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercises)
+- [Lecture Code](./week2/LectureNotes/)
+- [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercises/)
 
 ### week3
 - Toxicity Classifier
 - Image Classification Using MobileNet
 - Converting Models to JSON Format
-- [Lecture Code](./wee3/LectureNotes)
-- [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercises)
+- [Lecture Code](./wee3/LectureNotes/)
+- [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercises/)
 
 
 ### week4
@@ -44,5 +44,5 @@ Here is the notebook: ![Notebook](Notebook.pdf)
 - Retraining the MobileNet Model
 - Capturing the Data
 - Performing Inference From the Webcam Feed
-- [Lecture Code](./week4/LectureNotes)
-- [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercises)
+- [Lecture Code](./week4/LectureNotes/)
+- [Programming Assignment: Week 4 - Rock Paper Scissors](./week4/Exercises/)
