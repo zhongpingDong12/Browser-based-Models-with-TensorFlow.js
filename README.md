@@ -24,14 +24,14 @@ Here is the notebook: ![Notebook](Notebook.pdf)
 - [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercises/)
 
 
-### week2
+### Week2
 - Creating Convolutional Neural Networks in JavaScript
 - Using a Sprite Sheet
 - MNIST Classifier
 - [Lecture Code](./week2/LectureNotes/)
 - [Programming Assignment: Week 2 - Fashion MNIST Classifier](./week2/Exercises/)
 
-### week3
+### Week3
 - Toxicity Classifier
 - Image Classification Using MobileNet
 - Converting Models to JSON Format
@@ -39,7 +39,7 @@ Here is the notebook: ![Notebook](Notebook.pdf)
 - [Programming Assignment: Week 3 - Converting a Python Model to JavaScript](./week3/Exercises/)
 
 
-### week4
+### Week4
 
 - Retraining the MobileNet Model
 - Capturing the Data
