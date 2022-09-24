@@ -20,8 +20,8 @@ Here is the notebook: ![Notebook](Notebook.pdf)
 - Specialization Introduction
 - Training and Inference using TensorFlow.js in JavaScript
 - Training Models with CSV Files
-- [Lecture Code](./week1/LectureNotes)
-- [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercises)
+- [Lecture Code](./week1/lectureNotes/)
+- [Programming Assignment: Week 1 - Breast Cancer Classification](./week1/Exercises/)
 
 
 ### week2
